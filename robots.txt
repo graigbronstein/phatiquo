@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://virohngohy.gingerbuffet.com/sitemap.xml
